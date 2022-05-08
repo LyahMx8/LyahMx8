@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://github.com/LyahMx8/LyahMx8/blob/main/cover.gif?raw=true"  loading="lazy" />
 </p>
+<h6> Vectores gracias a Freepik.com</h6>
 
  ```javascript
 const Me = {
