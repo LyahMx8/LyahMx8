@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack%20web%20developer;Passionate%20about%20technology;Animal%20and%20code%20lover;Constantly%20growing%20and%20learning&font=Montserrat&center=true&width=440&height=45&color=009acf&vCenter=true&size=18">
+  <img src="https://github.com/LyahMx8/LyahMx8/blob/main/cover.gif?raw=true"  loading="lazy" />
 </p>
 
  ```javascript
