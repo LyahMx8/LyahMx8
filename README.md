@@ -16,7 +16,7 @@ const Me = {
     height: "414em",
     interests: ["Coding 👩🏼‍💻", "Video games 🎮", "Photography 📷", "Motion graphics 🎬"],
     education: ["UMB", "Uniempresarial", "Areandina", "Uniempresarial... again"],
-    languages: ["Spanish - native", "English - intermediate B2"],
+    languages: ["Spanish native", "English intermediate B2"],
     learning: ["React", "Vue", "Go", "Python"],
     hardSkills: {
         frontend: ["Javascript ES6", "Angular + RXJS", "SCSS", "Wordpress"],
