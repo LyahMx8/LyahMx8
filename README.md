@@ -8,9 +8,10 @@
 </p>
 <h6>Vectors from Freepik.com</h6>
 <br>
+<h3>Follow me!</h3>
 <p>
 <a href="https://www.instagram.com/lyahmotta/"><img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" alt="Instagram Lyah Motta" /></a>
-<a href="https://www.linkedin.com/in/lyahmotta/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="Linkedin Lyah Motta" /></a>
+<a href="https://www.linkedin.com/in/lyahmotta/"><img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="Linkedin Lyah Motta" /></a>
 </p>
 
 <br>
