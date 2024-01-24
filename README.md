@@ -53,4 +53,4 @@ lyah.onTickle();
  
 <br>
 
-<![Visitors](https://visitor-badge.glitch.me/badge?page_id=LyahMx8.LyahMx8) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/LyahMx8) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/LyahMx8)>
+<!--[Visitors](https://visitor-badge.glitch.me/badge?page_id=LyahMx8.LyahMx8) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/LyahMx8) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/LyahMx8)-->
