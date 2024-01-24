@@ -6,7 +6,23 @@
 <p align="center">
   <img src="https://github.com/LyahMx8/LyahMx8/blob/main/cover.gif?raw=true"  loading="lazy" />
 </p>
-<h6> Vectores gracias a Freepik.com</h6>
+<h6>Vectors from Freepik.com</h6>
+<br>
+<p>
+<a href="https://www.instagram.com/lyahmotta/"><img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" alt="Instagram Lyah Motta" /></a>
+<a href="https://www.linkedin.com/in/lyahmotta/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="Linkedin Lyah Motta" /></a>
+</p>
+
+<br>
+<p align="left">
+  I'm passionate about technology and building projects that involve creativity and teamwork
+</p>
+
+<ul align="left">
+  <li>🤓 Always open to teach and learn</li>
+  <li>😋 Hungry for knowledge and new challenges</li>
+  <li>🤪 Trying to make people laugh</li>
+</ul>
 
  ```javascript
 const Me = {
@@ -38,14 +54,4 @@ lyah.onTickle();
  
 <br>
 
-<p align="left">
-  I'm passionate about technology and building projects that involve creativity and teamwork
-</p>
-
-<ul align="left">
-  <li>🤓 Always open to teach and learn</li>
-  <li>😋 Hungry for knowledge and new challenges</li>
-  <li>🤪 Trying to make people laugh</li>
-</ul>
-
-<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=LyahMx8.LyahMx8) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/LyahMx8) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/LyahMx8) -->
+<![Visitors](https://visitor-badge.glitch.me/badge?page_id=LyahMx8.LyahMx8) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/LyahMx8) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/LyahMx8)>
