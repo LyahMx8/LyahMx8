@@ -29,7 +29,7 @@ const Me = {
     birthDate: "01/01/1998",
     gender: "Female Trans 🏳️‍🌈 🏳️‍⚧️",
     height: "414em",
-    interests: ["Coding 👩🏼‍💻", "Video games 🎮", "Photography 📷", "Motion graphics 🎬"],
+    interests: ["Coding 👩🏼‍💻", "Video games 🎮", "Photography 📷", "Racing 🏎️", "Motion graphics 🎬"],
     education: ["UMB", "Uniempresarial", "Areandina", "Uniempresarial... again"],
     languages: ["Spanish native", "English intermediate B2"],
     learning: ["React", "Vue", "Go", "Python"],
