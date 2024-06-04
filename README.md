@@ -30,14 +30,15 @@ const Me = {
     gender: "Female Trans 🏳️‍🌈 🏳️‍⚧️",
     height: "414em",
     interests: ["Coding 👩🏼‍💻", "Video games 🎮", "Photography 📷", "Racing 🏎️", "Motion graphics 🎬"],
-    education: ["UMB", "Uniempresarial", "Areandina", "Uniempresarial... again"],
-    languages: ["Spanish native", "English intermediate B2"],
-    learning: ["React", "Vue", "Go", "Python"],
+    education: ["Manuela Beltrán University", "Uniempresarial", "Areandina", "Uniempresarial... again", "SENA"],
+    languages: ["Spanish native", "English advanced C1"],
+    learning: ["React", "Nestjs", "Go", "Python"],
     hardSkills: {
-        frontend: ["Javascript ES6", "Angular + RXJS", "SCSS", "Wordpress"],
+        frontend: ["Javascript ES6", "Angular + RXJS", "SCSS", "HTML 5", "Wordpress"],
         backend: ["PHP + Laravel", "Node", "C#"],
-        databases: ["SQL", "MongoDB"],
-        tools: ["Azure, AWS, VPS...", "Adobe", "Linux", "Git"]
+        databases: ["MySQL", "Postgre", "TypeORM", "MongoDB"],
+        tools: ["Azure, AWS, VPS...", "Adobe", "Linux", "Git"],
+        design: ["Photoshop", "Illustrator", "Premiere Pro", "After Effects"]
     },
     onClick: function() {
         makeAJoke();
